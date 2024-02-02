@@ -1,4 +1,4 @@
-# PRODIGY_ML_02 K-means clustering for customers of a retail store.
+# PRODIGY_ML_02 - K-means clustering for customers of a retail store.
 ## Data acquiring
 ```python
 CustomerID	Gender	Age	Annual Income (k$)	Spending Score (1-100)
